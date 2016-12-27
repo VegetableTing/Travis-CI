@@ -7,7 +7,7 @@ public class MySorterMain {
 
 	        sorter.sort(input);
 	        for (double i: input) {
-	            //System.out.print(i + " ");
+	            System.out.print(i + " ");
 	        }
 	    }
 }
